@@ -1,2 +1,2 @@
 # Programming in C
-This repository contains a collection of C code examples that demonstrate the concept of recursion. Recursion is a powerful technique in programming where a function calls itself to solve a problem by breaking it down into smaller, more manageable sub problems.
+This repository contains a collection of C language code examples and projects. Explore a wide range of programming concepts, algorithms, and data structures implemented in C. Whether you're a beginner learning the basics or an experienced developer looking for practical implementations, this repository offers a variety of code snippets and complete programs. Enhance your C programming skills and deepen your understanding with this comprehensive code repository.
